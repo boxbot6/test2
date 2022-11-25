@@ -3,7 +3,7 @@ simple-website-template-single-page-v1.0
 
 <br>
 
-* [This is a link to the above website created by this repository using GitHub Pages.]([https://drive.google.com/file/d/1WXtJTXdoAHjkL9WLY1jl46gZ7tPnGs7o/view?usp=share_link])
+* [This is a link to the above website created by this repository using GitHub Pages.](https://drive.google.com/file/d/1WXtJTXdoAHjkL9WLY1jl46gZ7tPnGs7o/view?usp=share_link)
 
 <br>
 
